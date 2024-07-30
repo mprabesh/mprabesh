@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mprabesh&label=Profile%20views&color=0e75b6&style=flat" alt="mprabesh" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **DevOps for Cloud Computing**
 
-- 💬 Ask me about **React, Node.js, LINUX, python**
+- 💬 Ask me about **Node.js, LINUX, Python,Virtualization**
 
 - 📫 How to reach me **theprabesh723@gmail.com**
 
